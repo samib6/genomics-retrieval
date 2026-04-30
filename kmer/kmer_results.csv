@@ -1,0 +1,7 @@
+Method,Dataset,MAP@5,nDCG@5,Recall@5,n_queries
+k-mer (k=2),Arch Retrieval,0.0559,0.0792,0.0241,2343
+k-mer (k=3),Arch Retrieval,0.2561,0.3046,0.0995,2343
+k-mer (k=4),Arch Retrieval,0.569,0.6129,0.1967,2343
+k-mer (k=2),Euk Retrieval,0.1083,0.1419,0.0458,311
+k-mer (k=3),Euk Retrieval,0.3955,0.4407,0.1581,311
+k-mer (k=4),Euk Retrieval,0.6471,0.6899,0.256,311
