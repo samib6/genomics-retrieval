@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "arch_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "blast_method1/arch_corpus.fasta",
+  "number-of-letters": 3176396,
+  "number-of-sequences": 9229,
+  "last-updated": "2026-05-05T15:05:00",
+  "number-of-volumes": 1,
+  "bytes-total": 4200664,
+  "bytes-to-cache": 3259570,
+  "files": [
+    "arch_db.pdb",
+    "arch_db.phr",
+    "arch_db.pin",
+    "arch_db.pot",
+    "arch_db.psq",
+    "arch_db.ptf",
+    "arch_db.pto"
+  ]
+}

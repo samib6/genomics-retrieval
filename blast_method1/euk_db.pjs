@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "euk_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "blast_method1/euk_corpus.fasta",
+  "number-of-letters": 1130849,
+  "number-of-sequences": 3202,
+  "last-updated": "2026-05-05T15:05:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1582496,
+  "bytes-to-cache": 1159780,
+  "files": [
+    "euk_db.pdb",
+    "euk_db.phr",
+    "euk_db.pin",
+    "euk_db.pot",
+    "euk_db.psq",
+    "euk_db.ptf",
+    "euk_db.pto"
+  ]
+}

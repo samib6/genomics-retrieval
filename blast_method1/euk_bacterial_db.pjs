@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "euk_bacterial_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "blast_method1/euk_bacterial_corpus.fasta",
+  "number-of-letters": 1130849,
+  "number-of-sequences": 3202,
+  "last-updated": "2026-05-05T14:56:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1582512,
+  "bytes-to-cache": 1159796,
+  "files": [
+    "euk_bacterial_db.pdb",
+    "euk_bacterial_db.phr",
+    "euk_bacterial_db.pin",
+    "euk_bacterial_db.pot",
+    "euk_bacterial_db.psq",
+    "euk_bacterial_db.ptf",
+    "euk_bacterial_db.pto"
+  ]
+}
