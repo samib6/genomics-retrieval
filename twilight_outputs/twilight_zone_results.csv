@@ -1,0 +1,19 @@
+Task,Method,Bin,MAP@5,n_queries
+Arch Retrieval,BLASTP,<20% Twilight,,0
+Arch Retrieval,BLASTP,20-40% Medium,0.27302728261280546,337
+Arch Retrieval,BLASTP,>40% High,0.30302162649508924,2006
+Arch Retrieval,k-mer k=4,<20% Twilight,,0
+Arch Retrieval,k-mer k=4,20-40% Medium,0.08505065069990675,337
+Arch Retrieval,k-mer k=4,>40% High,0.19899590395174974,2006
+Arch Retrieval,ESM2-650M,<20% Twilight,,0
+Arch Retrieval,ESM2-650M,20-40% Medium,0.29413377909991206,337
+Arch Retrieval,ESM2-650M,>40% High,0.3172541288111109,2006
+Euk Retrieval,BLASTP,<20% Twilight,,0
+Euk Retrieval,BLASTP,20-40% Medium,0.33671665725921995,49
+Euk Retrieval,BLASTP,>40% High,0.34102244586373587,262
+Euk Retrieval,k-mer k=4,<20% Twilight,,0
+Euk Retrieval,k-mer k=4,20-40% Medium,0.18134147250680058,49
+Euk Retrieval,k-mer k=4,>40% High,0.26091002693434023,262
+Euk Retrieval,ESM2-650M,<20% Twilight,,0
+Euk Retrieval,ESM2-650M,20-40% Medium,0.395087520515059,49
+Euk Retrieval,ESM2-650M,>40% High,0.35235251392537054,262
